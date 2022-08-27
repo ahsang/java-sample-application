@@ -1,3 +1,5 @@
+package eksExample;
+
 import static spark.Spark.get;
 
 
